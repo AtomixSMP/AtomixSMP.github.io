@@ -1,0 +1,10 @@
+input: .
+output: .retype
+url: atomixsmp.github.io
+branding:
+  title: Settings Manager Pro
+  label: Atomix
+links:
+- text: Download
+  link: https://example.com
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
